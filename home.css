@@ -82,4 +82,14 @@ body{
     margin: auto;
 }
 
+@media all and (max-width:1000px){
+    #click img{
+        width: 30%;
+    }
+}
 
+@media all and (max-width:500px){
+    #click img{
+        width: 40%;
+    }
+}
